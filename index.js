@@ -8,8 +8,7 @@ const routesSwagger = require('./src/swagger/swagger.routes')
 const userRoute = require('./src/users/users.route');
 const authRoute = require('./src/auth/auth.route');
 
-
-const port = 3300;
+const port = process.env.PORT || 3300;
 
 const app = express();
 connectToDatabase();
