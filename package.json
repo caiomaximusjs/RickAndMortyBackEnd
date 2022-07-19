@@ -1,7 +1,7 @@
 {
   "name": "rickandmortyapi",
   "version": "1.0.0",
-  "description": "Projeto 03 Modulo 03 Blue Edtech",
+  "description": "Projeto 04 Modulo 03 Blue Edtech",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caiomaximusjs/RickAndMortyAPI.git"
+    "url": "git+https://github.com/caiomaximusjs/RickAndMortyBackEnd"
   },
   "keywords": [],
   "author": "",
