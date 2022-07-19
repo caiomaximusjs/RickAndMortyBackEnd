@@ -7,12 +7,12 @@
   },
   "servers": [
     {
-      "url": "",
-      "description": "API Produção"
+      "url": "https://rickandmortyapi.onrender.com",
+      "description": "Deployed on render"
     },
     {
       "url": "http://localhost:3301/",
-      "description": "API de Teste Local"
+      "description": "Local test"
     }
   ],
   "paths": {
